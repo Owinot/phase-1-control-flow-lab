@@ -95,8 +95,7 @@ curly braces to pass our tests and return the result:
 
 ```js
 function scuberGreetingForFeet(someValue) {
-  //this is where we can use conditionals given our argument, someValue
-  //don't forget to return whatever the result is!
+ifelse
 }
 ```
 
